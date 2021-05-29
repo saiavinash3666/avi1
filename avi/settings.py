@@ -49,6 +49,8 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
+'test need to be removed' 
+
 ROOT_URLCONF = 'avi.urls'
 
 TEMPLATES = [
